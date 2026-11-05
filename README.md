@@ -66,10 +66,8 @@
 
 ### 🔭 Trajetória
 <!-- INSIRA SUA TRAJETÓRIA -->
-- 🎓 Formado/estudando **[SEU CURSO / ÁREA]**
-- 💼 Experiência em **[EMPRESA / PROJETOS]**
-- 🚀 Desenvolvendo desde **[ANO]**
-- 🌱 Sempre evoluindo, uma *sprint* por vez
+- 🎓 estudando **[DESENVOLVIMENTO DE SISTEMAS]**
+- 🚀 Desenvolvendo desde **[2026]**
 
     </td>
     <td width="50%" valign="top">
