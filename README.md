@@ -85,19 +85,6 @@
 
 <div align="center">
 
-### 🗣️ Mantras do Banditos Coder
-
-| Conceito | Adaptação para o código |
-|:--|:--|
-| 🎹 **Piano & Código** | Tyler no piano, você no teclado: ritmo constante vence. |
-| 🥁 **Josh na Bateria** | Bom backend é o beat que sustenta tudo. |
-| 🫀 **Stay Alive** | Mantenha seu build verde e seu código vivo. |
-| 🎭 **Blurryface** | Dê nome aos seus bugs e encare-os de frente. |
-| 🏚️ **Escape from Dema** | Fuja do código legado, refatore com coragem. |
-| ⛓️ **Heathens** | Nem todo mundo entende, mas clean code é para todos. |
-| 📞 **Level of Concern** | Prazo apertado? Respire, priorize, entregue. |
-| 🧣 **Vialism** | Cada commit é um passo rumo a Trench. |
-
 </div>
 
 ---
