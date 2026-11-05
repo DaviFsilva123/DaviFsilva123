@@ -5,9 +5,7 @@
   ║          Vermelho #EC1C24                                    ║
   ║                                                              ║
   ║  COMO PERSONALIZAR: procure por "SEU-USUARIO", "Davi Ferreira"    ║
-  ║  e por todos os comentários <!-- INSIRA ... --> abaixo.      ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+  ║  e por todos os comentários <!-- INSIRA ... 
 
 <!-- ===================== 1. CABEÇALHO ===================== -->
 
