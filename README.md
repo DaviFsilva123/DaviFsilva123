@@ -4,7 +4,7 @@
   ║  Paleta: Preto #000000 · Cinza #1A1A1A · Amarelo #FCE700     ║
   ║          Vermelho #EC1C24                                    ║
   ║                                                              ║
-  ║  COMO PERSONALIZAR: procure por "SEU-USUARIO", "SEU NOME"    ║
+  ║  COMO PERSONALIZAR: procure por "SEU-USUARIO", "Davi Ferreira"    ║
   ║  e por todos os comentários <!-- INSIRA ... --> abaixo.      ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
@@ -18,10 +18,13 @@
 
 <!-- Texto animado: edite as frases separadas por ";" dentro de "lines=" -->
 <a href="https://github.com/SEU-USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=FCE700&background=00000000&center=true&vCenter=true&width=640&height=50&lines=Hello%2C+I'm+SEU+NOME;Full+Stack+Developer+%7C%2F%7C+Banditos+Coder;Transformando+caos+em+c%C3%B3digo+limpo;Stay+alive.+Keep+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=FCE700&background=00000000&center=true&vCenter=true&width=640&height=50&lines=Hello%2C+I'm+Davi+Ferreira;Full+Stack+Developer+%7C%2F%7C+Banditos+Coder;Transformando+caos+em+c%C3%B3digo+limpo;Stay+alive.+Keep+shipping." alt="Typing SVG" />
 </a>
 
 <br/>
+
+<!-- ÍCONES DA BANDA -->
+<h3>🥁 &nbsp;🎹 &nbsp;🎤 &nbsp;🎧 &nbsp;<b>Ψ</b>&nbsp; 🟡 &nbsp;🔴 &nbsp;⚫ &nbsp;<b>|/|</b>&nbsp; 🏚️ &nbsp;🕊️ &nbsp;🧣 &nbsp;💿</h3>
 
 <!-- BADGES DE IDENTIDADE -->
 <!-- INSIRA SEU CARGO (troque "Full%20Stack%20Developer") -->
@@ -55,11 +58,13 @@
 <!-- ===================== 2. SOBRE MIM ===================== -->
 
 <h2 align="center">
+  🎹
   <img src="https://img.shields.io/badge/%7C%2F%7C-THE%20BANDITO%20CODE-FCE700?style=for-the-badge&labelColor=000000" alt="The Bandito Code" />
+  🥁
 </h2>
 
 <!-- INSIRA UM PARÁGRAFO CURTO SOBRE VOCÊ -->
-> 🖤 **Sou o SEU NOME**, desenvolvedor apaixonado por criar soluções que unem **performance, design e propósito**. Como nas melhores histórias da banda, acredito que todo projeto tem um conceito por trás do código.
+> 🖤 **Sou o Davi Ferreira**, desenvolvedor apaixonado por criar soluções que unem **performance, design e propósito**. Como nas melhores histórias da banda, acredito que todo projeto tem um conceito por trás do código.
 
 <table align="center">
   <tr>
@@ -92,12 +97,29 @@
 
 | Conceito | Adaptação para o código |
 |:--|:--|
-| 🔴 **Stay Alive** | Mantenha seu build verde e seu código vivo. |
-| 🟡 **Blurryface** | Dê nome aos seus bugs e encare-os de frente. |
-| ⚫ **Escape from Dema** | Fuja do código legado, refatore com coragem. |
-| 🔴 **Heathens** | Nem todo mundo entende, mas clean code é para todos. |
-| 🟡 **Level of Concern** | Prazo apertado? Respire, priorize, entregue. |
-| ⚫ **Vialism** | Cada commit é um passo rumo a Trench. |
+| 🎹 **Piano & Código** | Tyler no piano, você no teclado: ritmo constante vence. |
+| 🥁 **Josh na Bateria** | Bom backend é o beat que sustenta tudo. |
+| 🫀 **Stay Alive** | Mantenha seu build verde e seu código vivo. |
+| 🎭 **Blurryface** | Dê nome aos seus bugs e encare-os de frente. |
+| 🏚️ **Escape from Dema** | Fuja do código legado, refatore com coragem. |
+| ⛓️ **Heathens** | Nem todo mundo entende, mas clean code é para todos. |
+| 📞 **Level of Concern** | Prazo apertado? Respire, priorize, entregue. |
+| 🧣 **Vialism** | Cada commit é um passo rumo a Trench. |
+
+</div>
+
+---
+
+<!-- ===================== NOW PLAYING ===================== -->
+
+<div align="center">
+
+<a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">
+  <img src="https://img.shields.io/badge/NOW%20PLAYING-Twenty%20One%20Pilots-000000?style=for-the-badge&logo=spotify&logoColor=FCE700&labelColor=EC1C24" alt="Spotify" />
+</a>
+<img src="https://img.shields.io/badge/BAND-Twenty%20One%20Pilots-FCE700?style=for-the-badge&logo=musicbrainz&logoColor=000000&labelColor=000000" alt="Banda" />
+<img src="https://img.shields.io/badge/ERA-Trench%20%7C%2F%7C%20Clancy-EC1C24?style=for-the-badge&logo=applemusic&logoColor=FCE700&labelColor=000000" alt="Era" />
+<img src="https://img.shields.io/badge/CODING%20WITH-Headphones%20On-000000?style=for-the-badge&logo=headphones&logoColor=FCE700&labelColor=1A1A1A" alt="Headphones" />
 
 </div>
 
@@ -106,7 +128,9 @@
 <!-- ===================== 3. STACK ===================== -->
 
 <h2 align="center">
+  🎸
   <img src="https://img.shields.io/badge/%CE%A8-STACK%20TECNOL%C3%93GICA-FCE700?style=for-the-badge&labelColor=000000" alt="Stack" />
+  💿
 </h2>
 
 <!-- Remova/adicione badges conforme sua stack. Padrão: https://img.shields.io/badge/NOME-000000?style=for-the-badge&logo=SLUG&logoColor=FCE700 -->
@@ -157,12 +181,21 @@
 <!-- ===================== 4. ESTATÍSTICAS ===================== -->
 
 <h2 align="center">
+  🚁
   <img src="https://img.shields.io/badge/%7C%2F%7C-THE%20SYSTEM-EC1C24?style=for-the-badge&labelColor=000000" alt="The System" />
+  🏙️
 </h2>
 
 <!-- TROQUE "SEU-USUARIO" pelo seu username do GitHub em TODAS as URLs desta seção -->
 
 <div align="center">
+
+<!-- BADGES DE FALLBACK (carregam sempre, via shields.io) -->
+<img src="https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github&logoColor=FCE700&labelColor=000000&color=EC1C24" alt="Seguidores" />
+<img src="https://img.shields.io/github/stars/SEU-USUARIO?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000&color=FCE700" alt="Stars" />
+<img src="https://img.shields.io/badge/Repos-Ver%20todos-000000?style=for-the-badge&logo=github&logoColor=FCE700&color=000000" alt="Repos" />
+
+<br/><br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=false&bg_color=0D0D0D&title_color=FCE700&text_color=FFFFFF&icon_color=EC1C24&border_color=FCE700&ring_color=EC1C24&count_private=true&rank_icon=github" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=false&bg_color=0D0D0D&title_color=FCE700&text_color=FFFFFF&border_color=FCE700&langs_count=8" alt="Top Languages" />
@@ -182,7 +215,9 @@
 <!-- ===================== 5. PROJETOS ===================== -->
 
 <h2 align="center">
+  🎧
   <img src="https://img.shields.io/badge/%CE%A8-TOP%20TRACKS-FCE700?style=for-the-badge&labelColor=000000" alt="Top Tracks" />
+  🎵
 </h2>
 
 <!-- Substitua os dados de cada projeto. Tracks 03 e 04 podem ser removidas (apague o bloco <tr> inteiro). -->
@@ -278,7 +313,9 @@
 <!-- ===================== 6. CONTATO ===================== -->
 
 <h2 align="center">
+  ✊
   <img src="https://img.shields.io/badge/%7C%2F%7C-JOIN%20THE%20RESISTANCE-EC1C24?style=for-the-badge&labelColor=000000" alt="Join the Resistance" />
+  🕊️
 </h2>
 
 <div align="center">
